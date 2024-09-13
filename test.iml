@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/test" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/test/src/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test/src/java/org.parmenid.jsontestmapper/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test/src/java/org.parmenid.jsontestmapper/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/test/src/resources" type="java-test-resource" />
+    </content>
+  </component>
+</module>
